@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgugulh_blog=self.webpackChunkgugulh_blog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u6240\u6709\u6587\u7ae0","items":[{"title":"Go mod\u4f9d\u8d56\u7ba1\u7406","permalink":"/blog/go mod\u4f9d\u8d56\u7ba1\u7406"}]}')}}]);
