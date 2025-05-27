@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgugulh_blog=self.webpackChunkgugulh_blog||[]).push([[802],{1668:g=>{g.exports=JSON.parse('{"label":"Spring AI","permalink":"/blog/tags/spring-ai","allTagsPath":"/blog/tags","count":1}')}}]);
