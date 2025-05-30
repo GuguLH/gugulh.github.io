@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgugulh_blog=self.webpackChunkgugulh_blog||[]).push([[547],{5140:l=>{l.exports=JSON.parse('{"label":"Vue","permalink":"/blog/tags/vue","allTagsPath":"/blog/tags","count":2}')}}]);
