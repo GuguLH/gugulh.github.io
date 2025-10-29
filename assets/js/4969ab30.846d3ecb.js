@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgugulh_blog=self.webpackChunkgugulh_blog||[]).push([[3189],{1961:l=>{l.exports=JSON.parse('{"label":"Gin","permalink":"/blog/tags/gin","allTagsPath":"/blog/tags","count":1}')}}]);
