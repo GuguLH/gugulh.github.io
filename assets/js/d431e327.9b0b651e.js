@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgugulh_blog=self.webpackChunkgugulh_blog||[]).push([[7010],{2233:g=>{g.exports=JSON.parse('{"permalink":"/blog/tags/lang-chain","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
